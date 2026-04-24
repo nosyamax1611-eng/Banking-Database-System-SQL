@@ -1,5 +1,5 @@
 # Banking-Database-System-SQL
-Designed a full-scale Banking Database in SSMS with 30+ tables and 10k+ records. This project features a robust ER diagram, 3NF normalization, and modules for fraud detection and cybersecurity. I developed advanced SQL queries to track financial KPIs and transaction volumes, transforming complex data into actionable business insights.
+Designed a full-scale Banking Database in SSMS with 30+ tables and 10k+ records. This project features a robust ER diagram, 3NF normalization, and modules for fraud detection and cybersecurity. I developed advanced T-SQL queries to track financial KPIs and transaction volumes, transforming complex data into actionable business insights.
 
 # Banking Database System (SQL)
 
@@ -14,7 +14,7 @@ A full-scale relational database designed to simulate a modern banking ecosystem
 
 ## Technologies Used
 * **Database Engine:** SQL Server (SSMS)
-* **Language:** SQL
+* **Language:** T-SQL
 
 ## Database Schema
 ![ER Diagram](ER_diagram.jpg)
